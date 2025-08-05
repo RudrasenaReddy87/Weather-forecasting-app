@@ -1,0 +1,77 @@
+<!--
+
+Author : Rudrasena Reddy
+Gmail : b.rudrasenareddy@gmail.com
+Github : https://github.com/RudrasenaReddy87
+repo : https://github.com/RudrasenaReddy87/Weather-forecasting-app
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Weather Forecast</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" defer></script>
+    <meta name="theme-color" content="#12121a">
+</head>
+<body>
+    <div class="container">
+        <div class="search-container">
+            <input type="text" id="location-input" placeholder="Enter Your City Name...." aria-label="City name for weather search">
+            <button id="search-btn" aria-label="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                </svg>
+            </button>
+        </div>
+
+        <div class="current-info">
+            <div class="date-container">
+                <div class="time" id="time">--:-- <span id="am-pm">--</span></div>
+                <div class="date" id="date">--, -- ---</div>
+                <div class="others" id="current-weather-items"></div>
+            </div>
+
+            <div class="location-air-container">
+                <div class="place-container">
+                    <div class="time-zone" id="time-zone">--</div>
+                    <div id="country" class="country">--</div>
+                </div>
+                
+                <div class="air-quality-dashboard">
+                    <h3>Air Quality Index</h3>
+                    <div class="air-quality-gauge">
+                        <div class="gauge-container">
+                            <div class="gauge" id="aqi-gauge"></div>
+                            <div class="gauge-value" id="aqi-value">--</div>
+                        </div>
+                        <div class="air-quality-info" id="air-quality-info"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="future-forecast">
+        <div class="today weather-card" id="current-temp">
+            <div class="weather-icon-container">
+                <lottie-player id="weather-animation" background="transparent" speed="1" loop autoplay></lottie-player>
+            </div>
+            <div class="other">
+                <div class="day">--</div>
+                <div class="temp">Current: --°C</div>
+                <div class="temp">High: --°C</div>
+                <div class="temp">Low: --°C</div>
+            </div>
+        </div>
+
+        <div class="weather-forecast" id="weather-forecast"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="script.js" defer></script>
+</body>
+</html>
