@@ -1,4 +1,3 @@
-# 🌤️ Weather Forecasting Web App
 
 This is a responsive, real-time Weather Forecasting Web Application built using HTML, CSS, JavaScript, and Node.js, designed to provide users with up-to-date weather information and air quality index (AQI) for any city worldwide.
 
@@ -24,7 +23,8 @@ Deployed using **[Vercel](https://vercel.com/)** for the frontend and **[Render]
 
 ## 📸 Preview
 
-*Coming soon...* (You can upload a screenshot in the `/assets` folder and reference it here.)
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/dcca06e8-e155-49d1-bf18-c308b65e31eb" />
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/437314a8-d4d1-4995-879d-fbaa36deefab" />
 
 ---
 
