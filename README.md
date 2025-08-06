@@ -1,4 +1,4 @@
-
+# Weather Forecasting
 This is a responsive, real-time Weather Forecasting Web Application built using HTML, CSS, JavaScript, and Node.js, designed to provide users with up-to-date weather information and air quality index (AQI) for any city worldwide.
 
 The app features a clean and modern user interface where users can search for a location and instantly view current weather conditions, a 6-day forecast, temperature, humidity, wind speed, and AQI data. It fetches weather data from WeatherAPI.com, with the backend server built in Node.js and deployed on Render, while the frontend is hosted on Vercel for high availability and performance.
