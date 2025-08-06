@@ -7,6 +7,7 @@ This project demonstrates full-stack development principles, API integration, an
 
 [![Live Site](https://img.shields.io/badge/Live%20App-Online-green?style=for-the-badge)](https://weather-forecasting-app-7m71.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/RudrasenaReddy87/Weather-forecasting-app)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/RudrasenaReddy87)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin)](https://www.linkedin.com/in/bodireddyrudrasenareddy)
 
 ---
