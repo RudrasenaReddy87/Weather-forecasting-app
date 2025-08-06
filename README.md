@@ -81,6 +81,68 @@ This project is built using HTML, CSS, JavaScript (Frontend) and Node.js (Backen
 - 💫 Smooth UI with transitions and effects
 
 ---
+## 🚀 Installation & Setup Guide
+
+Follow the steps below to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/RudrasenaReddy87/Weather-forecasting-app.git
+cd Weather-forecasting-app
+
+npm install
+cd backend
+node backend.js
+```
+Below for normal installation for you own
+### 2. Install frontend dependencies
+
+If you're using a separate frontend folder:
+
+```bash
+cd client
+npm install
+```
+
+Otherwise, if it's a single directory project:
+
+```bash
+npm install
+```
+
+### 3. Set up your environment variables
+
+- Create a `.env` file in the root directory (or inside the `client` folder).
+- Add your OpenWeatherMap API key:
+
+```
+VITE_WEATHER_API_KEY=your_api_key_here
+```
+
+> 🔑 Get your API key from: [https://openweathermap.org/api](https://openweathermap.org/api)
+
+### 4. Start the frontend server
+
+```bash
+npm run dev
+```
+
+Your app will now run locally on: [http://localhost:5173](http://localhost:5173)
+
+---
+
+### 💡 Optional: Backend (if used)
+
+If you have a Node.js backend:
+
+```bash
+cd server
+npm install
+npm start
+```
+
+---
 
 ## 🔗 Connect with Me
 
