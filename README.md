@@ -209,6 +209,6 @@ I build full-stack web apps, real-time tools, and automation bots. Feel free to 
 
 ## 📄 License
 
-This project is licensed under the **[MIT License](LICENSE.md)** — feel free to use, modify, and distribute it.
+This project is licensed under the **[MIT License](LICENSE)** — feel free to use, modify, and distribute it.
 
 
