@@ -27,6 +27,31 @@ Deployed using **[Vercel](https://vercel.com/)** for the frontend and **[Render]
 <img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/437314a8-d4d1-4995-879d-fbaa36deefab" />
 
 ---
+## 📂Folder ( Weather App)
+```
+📂 WEATHER APP
+├── 📄 .gitignore
+├── 📂 backend
+│   ├── 📂 node_modules
+│   ├── 📄 package-lock.json
+│   ├── 📄 package.json
+│   └── 🟨 server.js
+├── 📂 public
+│   ├── 📂 images
+│   ├── 📂 node_modules
+│   ├── 📄 index.html
+│   ├── 📄 manifest.json
+│   ├── 📄 package-lock.json
+│   ├── 📄 package.json
+│   ├── 📄 README.md
+│   ├── 🟨 script.js
+│   ├── 🎨 style.css
+│   └── 🟨 sw.js
+├── 🟢 .env
+├── 📄 LICENSE
+└── 📄 vercel.json
+```
+---
 
 ## ⚙️ Tech Stack
 
