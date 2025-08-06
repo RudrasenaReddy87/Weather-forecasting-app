@@ -44,8 +44,12 @@ This project is built using HTML, CSS, JavaScript (Frontend) and Node.js (Backen
 ---
 
 ## 📸 Preview
-<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/81cb87ac-a4f3-4424-9a77-37a68ac4ffb1" />
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/24c84471-773f-455c-afbb-c5fc1215516e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81cb87ac-a4f3-4424-9a77-37a68ac4ffb1" alt="Screenshot (74)" width="45%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/24c84471-773f-455c-afbb-c5fc1215516e" alt="Screenshot (75)" width="45%" />
+</p>
+
 ---
 
 ## Tech Stack
