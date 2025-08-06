@@ -10,6 +10,7 @@ This project demonstrates full-stack development principles, API integration, an
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/RudrasenaReddy87)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin)](https://www.linkedin.com/in/bodireddyrudrasenareddy)
 
+
 ---
 
 ## 🔗 Live Demo
