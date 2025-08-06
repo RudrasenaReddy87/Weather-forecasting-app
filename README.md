@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Profile-RudrasenaReddy87-333?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 
-   <a href="./LICENSE.md">
+   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=open-source-initiative&logoColor=white" alt="License" />
   </a>
 
