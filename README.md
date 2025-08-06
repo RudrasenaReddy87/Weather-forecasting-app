@@ -7,10 +7,7 @@ This project demonstrates full-stack development principles, API integration, an
 
 [![Live Site](https://img.shields.io/badge/Live%20App-Online-green?style=for-the-badge)](https://weather-forecasting-app-7m71.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/RudrasenaReddy87/Weather-forecasting-app)
-[![HTML](https://img.shields.io/badge/Tech-HTML-orange?style=flat-square&logo=html5)]()
-[![CSS](https://img.shields.io/badge/Tech-CSS-blue?style=flat-square&logo=css3)]()
-[![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow?style=flat-square&logo=javascript)]()
-[![Node.js](https://img.shields.io/badge/Tech-Node.js-brightgreen?style=flat-square&logo=node.js)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin)](https://www.linkedin.com/in/bodireddyrudrasenareddy)
 
 ---
 
@@ -54,7 +51,10 @@ Deployed using **[Vercel](https://vercel.com/)** for the frontend and **[Render]
 ---
 
 ## ⚙️ Tech Stack
-
+[![HTML](https://img.shields.io/badge/Tech-HTML-orange?style=flat-square&logo=html5)]()
+[![CSS](https://img.shields.io/badge/Tech-CSS-blue?style=flat-square&logo=css3)]()
+[![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow?style=flat-square&logo=javascript)]()
+[![Node.js](https://img.shields.io/badge/Tech-Node.js-brightgreen?style=flat-square&logo=node.js)]()
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **API Provider:** [WeatherAPI.com](https://www.weatherapi.com/)
