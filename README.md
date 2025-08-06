@@ -30,7 +30,9 @@
   </a>
 
 </p>
-A sleek, responsive weather forecasting app built using **HTML**, **CSS**, **JavaScript**, and **Node.js**, leveraging the **OpenWeatherMap API** to provide real-time weather conditions and forecasts. Deployed with **Vercel** and **Render** (as a backup).
+Weather Forecasting App is a responsive web application that allows users to search for any city and view real-time weather information, including temperature, humidity, wind speed, and weather conditions. The app also supports unit switching (Celsius/Fahrenheit), and fetches forecast data using the OpenWeatherMap API.
+
+This project is built using HTML, CSS, JavaScript (Frontend) and Node.js (Backend), and is deployed on Vercel with a backup deployment on Render.
 
 ---
 
@@ -42,13 +44,21 @@ A sleek, responsive weather forecasting app built using **HTML**, **CSS**, **Jav
 ---
 
 ## 📸 Preview
-
-> _Add a screenshot here if needed:_
-> `![App Screenshot](./images/preview.png)`
-
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/81cb87ac-a4f3-4424-9a77-37a68ac4ffb1" />
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/24c84471-773f-455c-afbb-c5fc1215516e" />
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/OpenWeatherMap-FF6C00?style=flat-square&logo=openweathermap&logoColor=white" alt="OpenWeatherMap API" />
+</p>
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js
