@@ -57,7 +57,7 @@ const weatherLottieMap = {
     1147: 'https://assets9.lottiefiles.com/packages/lf20_6s0N6J.json', // Freezing fog
 };
 
-
+// Clock function
 function updateClock() {
     const now = new Date();
     const hours = now.getHours();

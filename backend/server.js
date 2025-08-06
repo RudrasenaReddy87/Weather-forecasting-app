@@ -4,6 +4,7 @@ const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
 const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '.env') });
 
 const app = express();
 
@@ -21,8 +22,8 @@ app.get('/api/weather', async (req, res) => {
         }
 
         const response = await axios.get(
-            `http://api.weatherapi.com/v1/forecast.json?key=${process.env.WEATHERAPI_KEY}&q=${location}&days=6&aqi=yes&alerts=no`
-            // The change is here: aqi=yes
+            `http://api.weatherapi.com/v1/forecast.json?key=${process.env.WEATHERAPI_KEY}&q=${location}&days=6&alerts=no`
+
         );
 
         res.json(response.data);
