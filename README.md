@@ -1,32 +1,52 @@
-# Weather Forecasting
-This is a responsive, real-time Weather Forecasting Web Application built using HTML, CSS, JavaScript, and Node.js, designed to provide users with up-to-date weather information and air quality index (AQI) for any city worldwide.
+# Weather Forecasting Web Application
 
-The app features a clean and modern user interface where users can search for a location and instantly view current weather conditions, a 6-day forecast, temperature, humidity, wind speed, and AQI data. It fetches weather data from WeatherAPI.com, with the backend server built in Node.js and deployed on Render, while the frontend is hosted on Vercel for high availability and performance.
+<p align="left">
+  <a href="https://github.com/RudrasenaReddy87/Weather-forecasting-app">
+    <img src="https://img.shields.io/badge/Repository-Weather_App-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
+  <a href="https://github.com/RudrasenaReddy87">
+    <img src="https://img.shields.io/badge/Profile-RudrasenaReddy87-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/bodireddyrudrasenareddy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:b.rudrasenareddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-This project demonstrates full-stack development principles, API integration, and responsive UI design, making it a valuable learning resource and a practical tool.
+---
 
-[![Live Site](https://img.shields.io/badge/Live%20App-Online-green?style=for-the-badge)](https://weather-forecasting-app-7m71.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/RudrasenaReddy87/Weather-forecasting-app)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/RudrasenaReddy87)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin)](https://www.linkedin.com/in/bodireddyrudrasenareddy)
+A responsive, real-time **Weather Forecasting Web Application** built using **HTML, CSS, JavaScript, and Node.js**, allowing users to search any city worldwide and get:
 
+- Current weather
+- 6-day forecast
+- Air Quality Index (AQI)
+- Temperature, humidity, wind speed
+
+The frontend is deployed on **Vercel**, and the backend is powered by **Node.js** and deployed via **Render**, using data from [WeatherAPI.com](https://www.weatherapi.com/).
 
 ---
 
 ## 🔗 Live Demo
 
-🌐 **[Access the app here](https://weather-forecasting-app-7m71.onrender.com/)**  
-Deployed using **[Vercel](https://vercel.com/)** for the frontend and **[Render](https://render.com/)** for the backend API.
+**Web App:** [weather-forecasting-app-7m71.onrender.com](https://weather-forecasting-app-7m71.onrender.com)
+
+- Frontend: Hosted on [Vercel](https://vercel.com/)
+- Backend: Deployed via [Render](https://render.com/)
+- Weather data: Fetched from [WeatherAPI.com](https://www.weatherapi.com/)
 
 ---
 
 ## 📸 Preview
 
-<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/dcca06e8-e155-49d1-bf18-c308b65e31eb" />
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/437314a8-d4d1-4995-879d-fbaa36deefab" />
+<img src="https://github.com/user-attachments/assets/dcca06e8-e155-49d1-bf18-c308b65e31eb" width="100%" alt="Screenshot 1" />
+<img src="https://github.com/user-attachments/assets/437314a8-d4d1-4995-879d-fbaa36deefab" width="100%" alt="Screenshot 2" />
 
 ---
-## 📂Folder ( Weather App)
+
+## 📁 Folder Structure
+
 ```
 📂 WEATHER APP
 ├── 📄 .gitignore
@@ -50,64 +70,88 @@ Deployed using **[Vercel](https://vercel.com/)** for the frontend and **[Render]
 ├── 📄 LICENSE
 └── 📄 vercel.json
 ```
+
+---
+
+## 🚀 Features
+
+- Real-time weather by location
+- 6-day forecast with icons
+- Air Quality Index (AQI)
+- Fully responsive UI (mobile, tablet, desktop)
+- Minimal and clean layout
+- Error handling for invalid city names
+- Custom image background support
+
 ---
 
 ## ⚙️ Tech Stack
-[![HTML](https://img.shields.io/badge/Tech-HTML-orange?style=flat-square&logo=html5)]()
-[![CSS](https://img.shields.io/badge/Tech-CSS-blue?style=flat-square&logo=css3)]()
-[![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow?style=flat-square&logo=javascript)]()
-[![Node.js](https://img.shields.io/badge/Tech-Node.js-brightgreen?style=flat-square&logo=node.js)]()
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **API Provider:** [WeatherAPI.com](https://www.weatherapi.com/)
-- **Deployment Platforms:**
-  - **Frontend:** [Vercel](https://vercel.com/)
-  - **Backend/API:** [Render](https://render.com/)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-Frontend-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-Responsive-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Dynamic-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-WeatherAPI.com-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Deploy-Render-blue?style=for-the-badge&logo=render" />
+</p>
 
 ---
 
-## 📦 Features
+## 📈 Stats
 
-- Real-time weather search by location
-- 6-day weather forecast
-- Air Quality Index (AQI) display
-- Fully responsive design for all devices
-- Clean and modern UI
-- Error handling for invalid city names
-- Custom background support
-
+<p align="left">
+  <img src="https://img.shields.io/github/stars/RudrasenaReddy87/Weather-forecasting-app?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/RudrasenaReddy87/Weather-forecasting-app?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/issues/RudrasenaReddy87/Weather-forecasting-app?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/license/RudrasenaReddy87/Weather-forecasting-app?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Getting Started
 
 ### Prerequisites
 
 - Node.js installed
-- Vercel or any hosting account (for deployment)
-- Weather API key from [WeatherAPI.com](https://www.weatherapi.com/)
+- WeatherAPI key from [WeatherAPI.com](https://www.weatherapi.com/)
+- Vercel/Render account for deployment
 
-### Setup Instructions
+### Setup
 
 ```bash
 # Clone the repo
 git clone https://github.com/RudrasenaReddy87/Weather-forecasting-app
 
-# Go to backend directory
+# Navigate to backend
 cd Weather-forecasting-app/backend
 
 # Install dependencies
 npm install
 
-# Create .env file
-touch .env
-
-# Add your API key to .env
-WEATHERAPI_KEY=your_api_key_here
-PORT=3000
+# Create .env file and add your API key
+echo "WEATHERAPI_KEY=your_api_key_here" >> .env
+echo "PORT=3000" >> .env
 
 # Run the server
 node server.js
+```
 
+---
 
+## 👨‍💻 Author & Contact
 
+**Bodireddy Rudrasena Reddy**  
+- GitHub: [@RudrasenaReddy87](https://github.com/RudrasenaReddy87)
+- LinkedIn: [bodireddyrudrasenareddy](https://www.linkedin.com/in/bodireddyrudrasenareddy)
+- Email: b.rudrasenareddy@gmail.com
+
+---
+
+## 📝 License
+
+Licensed under the [MIT License](LICENSE)
+
+---
