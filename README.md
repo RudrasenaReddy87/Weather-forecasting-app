@@ -75,7 +75,6 @@ Weather Forecasting App is a responsive web application that allows users to sea
 - 🌤️ Real-time weather data display
 - 📅 5-day weather forecast
 - 🌡️ Temperature, humidity, pressure, and wind speed
-- 🔁 Unit toggle (°C / °F)
 - 🌫️ AQI (Air Quality Index) display
 - 📱 Responsive for mobile, tablet, and desktop
 - 🚫 Handles errors and invalid city inputs
