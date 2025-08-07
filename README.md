@@ -30,9 +30,7 @@
   </a>
 
 </p>
-Weather Forecasting App is a responsive web application that allows users to search for any city and view real-time weather information, including temperature, humidity, wind speed, and weather conditions. The app also supports unit switching (Celsius/Fahrenheit), and fetches forecast data using the OpenWeatherMap API.
-
-This project is built using HTML, CSS, JavaScript (Frontend) and Node.js (Backend), and is deployed on Vercel with a backup deployment on Render.
+Weather Forecasting App is a responsive web application that allows users to search for any city and view real-time weather information, including temperature, humidity, wind speed, and weather conditions. This project is built using HTML, CSS, JavaScript (Frontend) and Node.js (Backend), and is deployed on Vercel with a backup deployment on Render.
 
 ---
 
