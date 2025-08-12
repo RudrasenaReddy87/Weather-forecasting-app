@@ -94,7 +94,7 @@ cd Weather-forecasting-app
 
 npm install
 cd backend
-node backend.js
+node server.js
 ```
 Below for normal installation for you own
 ### 2. Install frontend dependencies
